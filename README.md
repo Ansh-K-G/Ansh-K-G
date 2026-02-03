@@ -61,7 +61,7 @@ Here are some cool projects I’ve worked on:
 ---
 
 ## 📈 GitHub Stats
+![Ansh’s GitHub stats](https://github-readme-stats.vercel.app/api?username=Ansh-K-G&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ansh-K-G&layout=compact&theme=radical)
 
-![Ansh’s GitHub stats](https://github-readme-stats.vercel.app/api?username=Ansh-K-G\&show_icons=true\&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ansh-K-G\&layout=compact\&theme=radical)
 
