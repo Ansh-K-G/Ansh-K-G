@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Ansh!
 
-### 🌟 Full Stack Developer | Turning Ideas into Code
+### 🌟 Computer Science Undergraduate | Java • React • Problem Solving | Turning Ideas into Code
 
 I’m a passionate developer building modern web apps, smart solutions, and interactive experiences. I love coding, learning new tech, and creating things that actually make life easier!
 
